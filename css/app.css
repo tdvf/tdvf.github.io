@@ -1,0 +1,15 @@
+.affix {
+      top: 0;
+      width: 100%;
+  }
+body{
+	background-color:#ABCDEF;
+}
+
+table{
+    background-color:#ABCDEF;
+}
+
+.table-fit {
+    width: 1px;
+}
